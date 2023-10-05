@@ -46,9 +46,7 @@ fetch('http://localhost:3000/api?url=YOUR_YOUTUBE_URL')
   .then(data => console.log(data));
 ```
 
-### POST Request
-
-To send a POST request, use the `/api` endpoint and include the YouTube URL in the request body:
+### POST Request with Fetch
 
 ```javascript
 fetch('http://localhost:3000/api', {
@@ -60,6 +58,22 @@ fetch('http://localhost:3000/api', {
 })
   .then(response => response.json())
   .then(data => console.log(data));
+```
+
+### POST Request with Axios
+
+```javascript
+const axios = require('axios');
+
+axios.post('http://localhost:3000/api', {
+  url: 'YOUR_YOUTUBE_URL'
+})
+.then(function (response) {
+  console.log(response.data);
+})
+.catch(function (error) {
+  console.error(error);
+});
 ```
 
 ### cURL Command for POST Request
