@@ -78,9 +78,7 @@ The API will return a JSON object containing information about the video, includ
 
 You can try out the API at the following demo URL:
 
-```bash
 [https://youtube.reactmvc.repl.co/api?url=YOUR_YOUTUBE_URL](https://youtube.reactmvc.repl.co/api?url=YOUR_YOUTUBE_URL)
-```
 
 Please replace `youtube.reactmvc.repl.co` with the actual URL where your API is hosted, and replace `YOUR_YOUTUBE_URL` with the URL of the YouTube video you want to get information about.
 
