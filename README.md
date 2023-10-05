@@ -102,8 +102,6 @@ For example, if your API is hosted at `api.example.com` and you want to get info
 http://api.example.com/api?url=https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 
-Please note that this is a placeholder demo URL. Replace it with your actual demo URL.
-
 ## Developer Contact
 
 For any queries or suggestions, you can reach out to the developer:
@@ -111,8 +109,6 @@ For any queries or suggestions, you can reach out to the developer:
 - Name: Hossein Pira
 - Email: h3dev.pira@gmail.com
 - Telegram: [@h3dev](https://t.me/h3dev)
-
-Please note that these are placeholder contact details. Replace them with your actual contact details.
 
 ## License
 
