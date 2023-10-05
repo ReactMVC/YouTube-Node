@@ -1,0 +1,24 @@
+{
+  "name": "youtube-api",
+  "version": "1.0.0",
+  "description": "fast and modern api for download videos/audios/thumbnails and get video info from youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReactMVC/YouTube-Node.git"
+  },
+  "author": "Hossein Pira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReactMVC/YouTube-Node/issues"
+  },
+  "homepage": "https://github.com/ReactMVC/YouTube-Node",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
