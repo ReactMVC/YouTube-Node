@@ -1,7 +1,7 @@
 {
   "name": "youtube-api",
   "version": "1.0.0",
-  "description": "fast and modern api for download videos/audios/thumbnails and get video info from youtube",
+  "description": "This is a fast and modern API for downloading videos, audios, thumbnails, and getting video information from YouTube. It's built with Node.js and uses the ytdl-core library to interact with YouTube.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
