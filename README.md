@@ -74,6 +74,16 @@ curl -X POST -H "Content-Type: application/json" -d '{"url":"YOUR_YOUTUBE_URL"}'
 
 The API will return a JSON object containing information about the video, including the title, description, view count, channel details, publish date, update date, embed details, thumbnails, and available formats.
 
+## Developer Contact
+
+For any queries or suggestions, you can reach out to the developer:
+
+- Name: Hossein
+- Email: hossein@example.com
+- Telegram: @hossein_example
+
+Please note that these are placeholder contact details. Replace them with your actual contact details.
+
 ## License
 
 This project is licensed under the MIT License.
