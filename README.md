@@ -74,6 +74,24 @@ curl -X POST -H "Content-Type: application/json" -d '{"url":"YOUR_YOUTUBE_URL"}'
 
 The API will return a JSON object containing information about the video, including the title, description, view count, channel details, publish date, update date, embed details, thumbnails, and available formats.
 
+## Demo
+
+You can try out the API at the following demo URL:
+
+```bash
+[https://youtube.reactmvc.repl.co/api?url=YOUR_YOUTUBE_URL](https://youtube.reactmvc.repl.co/api?url=YOUR_YOUTUBE_URL)
+```
+
+Please replace `youtube.reactmvc.repl.co` with the actual URL where your API is hosted, and replace `YOUR_YOUTUBE_URL` with the URL of the YouTube video you want to get information about.
+
+For example, if your API is hosted at `api.example.com` and you want to get information about the video at `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, you would use the following URL:
+
+```bash
+http://api.example.com/api?url=https://www.youtube.com/watch?v=dQw4w9WgXcQ
+```
+
+Please note that this is a placeholder demo URL. Replace it with your actual demo URL.
+
 ## Developer Contact
 
 For any queries or suggestions, you can reach out to the developer:
