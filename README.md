@@ -79,8 +79,8 @@ The API will return a JSON object containing information about the video, includ
 For any queries or suggestions, you can reach out to the developer:
 
 - Name: Hossein
-- Email: hossein@example.com
-- Telegram: @hossein_example
+- Email: h3dev.pira@gmail.com
+- Telegram: [@h3dev](https://t.me/h3dev)
 
 Please note that these are placeholder contact details. Replace them with your actual contact details.
 
