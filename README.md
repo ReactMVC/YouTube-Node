@@ -94,7 +94,7 @@ Please note that this is a placeholder demo URL. Replace it with your actual dem
 
 For any queries or suggestions, you can reach out to the developer:
 
-- Name: Hossein
+- Name: Hossein Pira
 - Email: h3dev.pira@gmail.com
 - Telegram: [@h3dev](https://t.me/h3dev)
 
